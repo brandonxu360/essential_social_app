@@ -4,8 +4,11 @@ Essential is a minimalistic social networking app that simplifies online interac
 
 ## Features
 The Wall: See a chronological feed of all posts from users.
+
 Posting Functionality: Users can create and share posts with text content.
+
 User Profiles: Each user has a profile displaying their basic information.
+
 User List: View a list of all users registered on the platform.
 
 ## Demo
