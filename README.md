@@ -11,8 +11,8 @@ Essential is a minimalistic social networking app that simplifies online interac
 ## Demo
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/brandonxu360/essential_social_app/assets/76601710/b48b129a-a057-4acc-bd84-88a19046ac0e" alt="register" width="170" height="auto">
-    <img src="https://github.com/brandonxu360/essential_social_app/assets/76601710/70b27cc3-7f2d-4944-84f7-7ff241de8caa" alt="login" width="170" height="auto">
-    <img src="https://github.com/brandonxu360/essential_social_app/assets/76601710/cababddb-f2f4-4b01-907e-218fb1125a55" alt="post" width="170" height="auto">
-    <img src="https://github.com/brandonxu360/essential_social_app/assets/76601710/10be25d8-0a04-4b95-9f48-b8827f14805a" alt="user-list" width="170" height="auto">
+    <img src="https://github.com/brandonxu360/essential_social_app/assets/76601710/b48b129a-a057-4acc-bd84-88a19046ac0e" alt="register" style="margin-right: 10px;" width="180" height="auto">
+    <img src="https://github.com/brandonxu360/essential_social_app/assets/76601710/70b27cc3-7f2d-4944-84f7-7ff241de8caa" alt="login" style="margin-right: 10px;" width="180" height="auto">
+    <img src="https://github.com/brandonxu360/essential_social_app/assets/76601710/cababddb-f2f4-4b01-907e-218fb1125a55" alt="post" style="margin-right: 10px;" width="180" height="auto">
+    <img src="https://github.com/brandonxu360/essential_social_app/assets/76601710/10be25d8-0a04-4b95-9f48-b8827f14805a" alt="user-list" width="180" height="auto">
 </div>
