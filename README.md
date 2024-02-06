@@ -8,7 +8,7 @@ Essential is a minimalistic social networking app that simplifies online interac
 - **User Profiles**: Each user has a profile displaying their basic information.
 - **User List**: View a list of all users registered on the platform.
 
-- ## Technologies Used
+- ## Technologies
 - **Flutter**: The frontend of Essential is built using Flutter, a UI toolkit developed by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Firebase Authentication**: Essential utilizes Firebase Authentication to handle user authentication securely, allowing users to sign up, sign in, and manage their accounts.
 - **Firebase Firestore**: Firestore, a NoSQL cloud database provided by Firebase, is used as the backend database for Essential. It stores user data, posts, and other essential information, providing real-time syncing and offline support.
