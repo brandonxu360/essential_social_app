@@ -8,5 +8,6 @@ Posting Functionality: Users can create and share posts with text content.
 User Profiles: Each user has a profile displaying their basic information.
 User List: View a list of all users registered on the platform.
 
-## Screenshots
-![image](https://github.com/brandonxu360/essential_social_app/assets/76601710/f20e711a-6366-4771-8ce8-137ee21aabdd)
+## Demo
+https://github.com/brandonxu360/essential_social_app/assets/76601710/ee985e71-a307-4b78-a6fb-59a17b8e7c5d
+
