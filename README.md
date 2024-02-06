@@ -1,6 +1,6 @@
 # Essential
 
-Essential is a minimalistic social networking app that simplifies online interactions. With a focus on essential features, the app allows users to connect with friends, share updates, and view a streamlined feed of posts.
+Essential is a minimalistic social app that simplifies online interaction. With a focus on essential features, the app allows users to share updates and view a streamlined feed of posts.
 
 ## Features
 - **The Wall**: See a chronological feed of all posts from users.
